@@ -1,2 +1,0 @@
-# walktrip-final
-fda
